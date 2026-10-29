@@ -1,0 +1,12 @@
+SITIO DE GABRIEL ALEGRE (HTML + CSS estático, sin dependencias)
+
+Archivos: index.html, estudios.html, experiencia.html, proyectos.html, styles.css, assets/
+
+Probar en local: abrir index.html con doble clic.
+
+Publicar (gratis, elegir una):
+1) Netlify: entrar a app.netlify.com/drop y arrastrar la carpeta completa.
+2) Cloudflare Pages: Workers y Pages > Crear > Pages > Carga directa > subir la carpeta.
+3) GitHub Pages: subir el contenido a un repositorio, Settings > Pages > Branch main / root.
+
+Importante: index.html debe quedar en la raíz. La fuente (Plus Jakarta Sans) se carga desde Google Fonts.
